@@ -13,7 +13,7 @@ const Footer = () => {
         <div className=" foot row pt-3 pb-2">
             <div className="col-4 d-flex justify-content-around align-items-center">
                 <p className="text-white">
-                    &copy; 2023 &middot; Made with ❤ Team <Link to="https://mediplus-epics.onrender.com" className="text-white">SERVICURE</Link>
+                    &copy; 2023 &middot; Made with ❤ Team <Link to="" className="text-white">SERVICURE</Link>
                 </p>
             </div>
 
